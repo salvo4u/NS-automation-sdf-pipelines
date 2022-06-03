@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deploy>
+    <configuration>
+        <path>~/AccountConfiguration/*</path>
+    </configuration>
+    <files>
+        <path>~/FileCabinet/SuiteScripts/sdf_pipeline_mr.js</path>
+        <path>~/FileCabinet/SuiteScripts/sdf_pipeline_cs.js</path>
+    </files>
+    <objects>
+        <path>~/Objects/dummy/*</path>
+    </objects>
+</deploy>

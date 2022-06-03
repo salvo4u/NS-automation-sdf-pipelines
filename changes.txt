@@ -1,0 +1,2 @@
+/FileCabinet/SuiteScripts/sdf_pipeline_cs.js
+/FileCabinet/SuiteScripts/sdf_pipeline_mr.js
